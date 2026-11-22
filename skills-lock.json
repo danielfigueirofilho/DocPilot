@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "skills": {
+    "aprender": {
+      "source": "kipperacademy/skillpper",
+      "commit": "718ee6dbb463c89bfd602daa08716ef49412ff70",
+      "sourceType": "github",
+      "skillPath": "Aprendizagem/aprender/SKILL.md",
+      "computedHash": "1fe4bd616eaa405dd89bf96d6e66929aeb4b4036c97e60c244b70071034b9842"
+    },
+    "construir": {
+      "source": "kipperacademy/skillpper",
+      "commit": "718ee6dbb463c89bfd602daa08716ef49412ff70",
+      "sourceType": "github",
+      "skillPath": "Aprendizagem/construir/SKILL.md",
+      "computedHash": "595103b31a5962db8a28ed06b19f10a7c652688e5025db25abc538dbfcc8c1c6"
+    }
+  }
+}

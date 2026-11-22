@@ -1,0 +1,15 @@
+# Privado (repositório público)
+docs/private
+.agents
+AGENTS.md
+CLAUDE.md
+
+# Dependências
+node_modules
+
+# Gerados
+dist
+.turbo
+
+# Segredos
+.env
